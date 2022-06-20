@@ -1,5 +1,5 @@
 ## Hi, I'm Tobias!
-A junior developer from Germany.
+A junior developer from Germany, working for the Dantronik GmbH.
 
 ### Social
 You can find me on:
