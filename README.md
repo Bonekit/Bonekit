@@ -2,4 +2,5 @@
 A junior developer from Germany.
 
 ### Social
-You can find me on [Twitter]("https://twitter.com/BonekitDEV")
+You can find me on:
+* [Twitter](https://wwww.twitter.com/BonekitDEV)
