@@ -1,6 +1,4 @@
-## Hi, I'm Tobias!
-A junior developer from Germany, working for the Dantronik GmbH.
+# Welcome to My GitHub Profile!
 
-### Social
-You can find me on:
-* [Twitter](https://wwww.twitter.com/BonekitDEV)
+## About Me
+I am a software developer with experience since 2018, currently working for Dantronik GmbH. My primary programming languages are VBA and C#, although I have also completed projects in Python.
